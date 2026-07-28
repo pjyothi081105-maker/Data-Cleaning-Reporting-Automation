@@ -78,6 +78,7 @@ Automatic scheduled data refresh
 Email report automation
 Real-time dashboard integration
 Machine Learning for anomaly detection
+
 👩‍💻 Author
 Pitta Jyothirmai 
 
